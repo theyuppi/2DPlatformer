@@ -22,3 +22,9 @@ ExportedObj/
 .vs
 *.orig
 *.orig.meta
+Playformer/Temp/UnityLockfile
+*.json
+*.log
+*.bakert
+*.dwlt
+Playformer/Library/expandedItems
