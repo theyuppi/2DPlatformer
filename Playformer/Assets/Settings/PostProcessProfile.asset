@@ -71,7 +71,7 @@ MonoBehaviour:
   active: 1
   enabled:
     overrideState: 1
-    value: 1
+    value: 0
   gradingMode:
     overrideState: 0
     value: 1
@@ -113,7 +113,7 @@ MonoBehaviour:
     value: 0
   colorFilter:
     overrideState: 0
-    value: {r: 1, g: 1, b: 1, a: 1}
+    value: {r: 0.6509434, g: 0.6509434, b: 0.6509434, a: 1}
   hueShift:
     overrideState: 0
     value: 0
@@ -125,7 +125,7 @@ MonoBehaviour:
     value: 0
   postExposure:
     overrideState: 0
-    value: 0
+    value: 1.1
   contrast:
     overrideState: 0
     value: 0
