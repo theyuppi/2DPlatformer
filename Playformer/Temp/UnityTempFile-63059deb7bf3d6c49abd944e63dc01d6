@@ -187,6 +187,10 @@
 -define:ENABLE_UNITY_COLLECTIONS_CHECKS
 -define:UNITY_TEAM_LICENSE
 -define:UNITY_POST_PROCESSING_STACK_V2
+Assets/CameraScript.cs
+Assets/EnumFlagAttribute.cs
+Assets/EnumFlagDrawer.cs
+Assets/EnumFlagsAttribute.cs
 Assets/PostProcessing/Runtime/Attributes/GetSetAttribute.cs
 Assets/PostProcessing/Runtime/Attributes/MinAttribute.cs
 Assets/PostProcessing/Runtime/Attributes/TrackballAttribute.cs
@@ -234,5 +238,4 @@ Assets/PostProcessing/Runtime/Utils/RenderTextureFactory.cs
 Assets/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs
 Assets/Scripts/PlayerMovementScript.cs
 Assets/Scripts/SimpleCameraController.cs
-Assets/TutorialInfo/Scripts/Readme.cs
 -lib:"D:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\unity"
